@@ -2,7 +2,7 @@
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning Penetration Testing
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me on Instagram @__j.u.s.t.i.f.i.e.d__
+- 📫 Reach me on Instagram @ __j.u.s.t.i.f.i.e.d__
 
 <!---
 DarkSparow/DarkSparow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
